@@ -1,5 +1,4 @@
-tkinter
-matplotlib
-time
-random
-numpy
+tkinter==8.6
+matplotlib==3.9.2
+time==3.7
+numpy==1.26.4
