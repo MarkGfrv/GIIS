@@ -1,0 +1,5 @@
+tkinter
+matplotlib
+time
+random
+numpy
